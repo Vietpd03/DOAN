@@ -19,19 +19,32 @@ Image Upload: Integrated with Cloudinary for handling image uploads for products
 Responsive Design: The application is designed to work seamlessly on both desktop and mobile devices.
 
 Technologies Used
+
+
 Frontend:
 
 React.js: For building the user interface.
+
 Redux: For state management.
+
 React Stripe.js: For handling payment integrations with Stripe.
+
+
 Backend:
 
 Node.js & Express.js: For building the RESTful API.
+
 MongoDB & Mongoose: For database management and schema validation.
+
 JWT (JSON Web Tokens): For handling user authentication and authorization.
+
 Cloudinary: For image upload and storage.
+
 Nodemailer: For sending emails to users (e.g., order confirmations).
+
+
 Deployment:
 
 MongoDB Atlas: Cloud-based database hosting.
+
 Heroku/Vercel: For deploying the application.
